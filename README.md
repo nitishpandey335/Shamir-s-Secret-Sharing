@@ -1,1 +1,5 @@
-# Shamir-s-Secret-Sharing
+# Shamir's Secret Sharing
+
+## GUI Screenshot
+
+![GUI Screenshot](screenshot.png)
